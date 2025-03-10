@@ -721,3 +721,4 @@ cd ..
 cd /workspace/project
 ls --color=auto
 ls --color=auto
+cp --help
