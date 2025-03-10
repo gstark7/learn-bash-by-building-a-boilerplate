@@ -268,3 +268,5 @@ mv roboto fonts
 mv roboto.woff fonts
 fin
 find
+__vsc_prompt_cmd_original
+mv lato.ttf fonts
