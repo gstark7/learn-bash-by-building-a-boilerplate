@@ -167,3 +167,5 @@ cd has
 cd src
 pwd
 ls --color=auto
+__vsc_prompt_cmd_original
+more index.js
