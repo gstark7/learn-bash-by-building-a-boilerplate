@@ -581,3 +581,4 @@ cd website
 mkdir package.json
 rmdir package.json
 touch package.json
+touch server.js
