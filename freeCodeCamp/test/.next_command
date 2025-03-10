@@ -252,3 +252,5 @@ cd ..
 ls --color=auto
 __vsc_prompt_cmd_original
 rm header.png
+rm footer.png
+rm footer.jpeg
