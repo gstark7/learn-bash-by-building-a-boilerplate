@@ -81,3 +81,33 @@ ls --color=auto
 cd node_modules
 __vsc_prompt_cmd_original
 ls --color=auto
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto -1
+ls --color=auto -1
+clear
+ls --color=auto -1
+ls --color=auto 1
+ls --color=auto clear
+clear
+ls --color=auto -1
+__vsc_prompt_cmd_original
+ls --color=auto -1
+ls --color=auto flag
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
+ls --color=auto -1
+cd ..
+cd node_modules
+ls --color=auto
+ls --color=auto -1
+ls-1
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto -1
+clear
+ls --color=auto -1
+cd node_modules
+ls --color=auto -1
+ls --color=auto -l
