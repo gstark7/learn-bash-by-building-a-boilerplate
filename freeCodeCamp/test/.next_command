@@ -290,3 +290,4 @@ find -name styles.css
 find -name src
 __vsc_prompt_cmd_original
 find
+cd client
