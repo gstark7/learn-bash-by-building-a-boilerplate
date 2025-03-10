@@ -337,3 +337,4 @@ cd ..
 mv images/footer.jpeg client/assets/images
 clear
 find
+rmdir images
