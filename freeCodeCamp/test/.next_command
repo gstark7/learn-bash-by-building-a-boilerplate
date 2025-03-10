@@ -111,3 +111,4 @@ ls --color=auto -1
 cd node_modules
 ls --color=auto -1
 ls --color=auto -l
+cd has
