@@ -221,3 +221,12 @@ ls --color=auto
 touch CodeAlly.svg
 touch COdeRoad.svg
 touch CodeRoad.svg
+ls --color=auto
+del COroad.svg
+command --help
+clear
+ls --color=auto
+rm COdeRoad.svg
+ls --color=auto
+clear
+touch freeCodeCamp.svg
