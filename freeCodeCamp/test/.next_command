@@ -235,3 +235,5 @@ mkdir images
 ls --color=auto
 cp background.jpg images
 cd images
+lsls
+ls --color=auto
