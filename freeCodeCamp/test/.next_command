@@ -166,3 +166,4 @@ ls --color=auto -l
 cd has
 cd src
 pwd
+ls --color=auto
