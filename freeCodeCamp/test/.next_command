@@ -270,3 +270,4 @@ fin
 find
 __vsc_prompt_cmd_original
 mv lato.ttf fonts
+mv menlo.otf fonts
