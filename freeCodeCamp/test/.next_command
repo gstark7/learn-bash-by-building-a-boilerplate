@@ -186,3 +186,22 @@ touch index.js
 touch .gitignore
 __vsc_prompt_cmd_original
 ls --color=auto
+command ls
+--help ls
+command ls
+command help
+--help
+ls --color=auto help
+command ls
+command help
+clear
+ls --color=auto
+command --help
+command --ls
+command ls
+ls --color=auto help
+clear
+--help ls
+command --help ls
+ls --color=auto help
+ls --color=auto --help
