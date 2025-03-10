@@ -287,3 +287,4 @@ __vsc_prompt_cmd_original
 find --help
 find -name index.html
 find -name styles.css
+find -name src
