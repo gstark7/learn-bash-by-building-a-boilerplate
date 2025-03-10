@@ -66,3 +66,6 @@ ls --color=auto
 cd freeCodeCamp
 __vsc_prompt_cmd_original
 pwd
+lsls
+__vsc_prompt_cmd_original
+ls --color=auto
