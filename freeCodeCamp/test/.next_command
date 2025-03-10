@@ -722,3 +722,4 @@ cd /workspace/project
 ls --color=auto
 ls --color=auto
 cp --help
+cp -r website-boilerplate toms-website
